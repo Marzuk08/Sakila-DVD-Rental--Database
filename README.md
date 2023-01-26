@@ -1,5 +1,4 @@
 # **Sakila DVD Rental database**
-___
 
 ## **Introduction**
 The Sakila Database holds information about a company that rents movie DVDs. For this project, I will be querying the database to gain an understanding of the customer base and answer interesting questions about the database.
@@ -7,7 +6,6 @@ The Sakila Database holds information about a company that rents movie DVDs. For
 I you are interested in the dataset, you can get it [here](http://www.postgresqltutorial.com/postgresql-sample-database/)
 
 ## **Tools Used**
-<hr>
 
 1. PostgreSQL
 
@@ -16,7 +14,7 @@ I you are interested in the dataset, you can get it [here](http://www.postgresql
 3. Matplotlib
 
 ## **Questions for Analysis**
-___
+
 1. We want to understand more about the movies that families are watching. Animation,
 Children, Classics, Comedy, Family and Music are considered as family movies
 
