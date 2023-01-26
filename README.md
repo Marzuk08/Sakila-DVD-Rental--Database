@@ -16,7 +16,7 @@ If you are interested in the dataset, you can get it [here](http://www.postgresq
 ## **Questions for Analysis**
 
 1. We want to understand more about the movies that families are watching. Animation,
-Children, Classics, Comedy, Family and Music are considered as family movies
+Children, Classics, Comedy, Family and Music are considered as family movies.
 
 2. Now we need to know the length of rental duration in each movie category of these
 family-friendly movies.
