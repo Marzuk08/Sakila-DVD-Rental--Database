@@ -3,7 +3,7 @@
 ## **Introduction**
 The Sakila Database holds information about a company that rents movie DVDs. For this project, I will be querying the database to gain an understanding of the customer base and answer interesting questions about the database.
 
-I you are interested in the dataset, you can get it [here](http://www.postgresqltutorial.com/postgresql-sample-database/)
+If you are interested in the dataset, you can get it [here](http://www.postgresqltutorial.com/postgresql-sample-database/)
 
 ## **Tools Used**
 
